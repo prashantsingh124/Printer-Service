@@ -1,0 +1,8 @@
+oracle\ofsll\restful\setup\printer\PrinterDefinitionService.class
+oracle\ofsll\restful\setup\printer\PrinterDefinitionDTO.class
+oracle\ofsll\restful\setup\printer\Application.class
+oracle\ofsll\restful\setup\printer\PrinterDefinitionController.class
+oracle\ofsll\restful\setup\printer\PrinterDefinition.class
+oracle\ofsll\restful\setup\printer\PrinterDefinitionRepository.class
+oracle\ofsll\restful\setup\printer\PrinterDefinitionResponse.class
+oracle\ofsll\restful\setup\printer\SecurityConfig.class
