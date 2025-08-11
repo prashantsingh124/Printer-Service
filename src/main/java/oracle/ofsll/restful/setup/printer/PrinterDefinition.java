@@ -8,7 +8,7 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
-
+// changed the code for the Testing
 @Entity
 @Table(name = "PRINTER_DEFINITIONS")
 public class PrinterDefinition {
