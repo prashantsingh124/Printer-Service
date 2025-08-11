@@ -8,7 +8,7 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
-// changed the code for the Testing --again direct merge
+// changed the code for the Testing --again direct merge 12
 @Entity
 @Table(name = "PRINTER_DEFINITIONS")
 public class PrinterDefinition {
